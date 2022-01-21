@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ValYourPal
 - 👀 I’m interested in stregnthening my Python skills
 - 🌱 I’m currently learning how to build awesome stuff in a team setting like...
-  - a piece of interactive media
+  - a game with currently no decided platform
   - a website
 
 <!---
