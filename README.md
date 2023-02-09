@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ValYourPal
-- 👀 I’m interested in stregnthening my Python skills
-- 🌱 I’m currently learning how to build awesome stuff like...
-  - a compiler
-  - an OS
+- 👀 I’m interested in stregnthening my Data Science skills
+- 🌱 I’m currently learning awesome stuff like...
+  - using R for data science
+  - how create a language
 
 <!---
 ValYourPal/ValYourPal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
